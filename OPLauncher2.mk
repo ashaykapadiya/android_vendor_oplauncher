@@ -14,5 +14,6 @@ PRODUCT_PACKAGES += \
     OPIconpackOnePlus \
     OPIconpackOxygen \
     OPIconpackSquare \
+    OPWeather \
     OPWidget
 
