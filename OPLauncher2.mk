@@ -7,13 +7,13 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OnePlusRecentsProvider \
     OPLauncher2 \
-    OPIconpackCircle \
-    OPIconpackDefault \
-    OPIconpackHydrogen \
-    OPIconpackMCLaren \
-    OPIconpackOnePlus \
-    OPIconpackOxygen \
-    OPIconpackSquare \
-    OPWeather \
-    OPWidget
+    OPIconpackCircle1 \
+    OPIconpackDefault1 \
+    OPIconpackHydrogen1 \
+    OPIconpackMCLaren1 \
+    OPIconpackOnePlus1 \
+    OPIconpackOxygen1 \
+    OPIconpackSquare1 \
+    OPWeather1 \
+    OPWidget1
 

@@ -1,7 +1,7 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := OPIconpackMCLaren
+LOCAL_MODULE := OPIconpackMCLaren1
 LOCAL_MODULE_STEM := OPIconpackMCLaren.apk
 LOCAL_SRC_FILES := OPIconpackMCLaren.apk
 LOCAL_MODULE_TAGS := optional

@@ -1,7 +1,7 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := OPIconpackCircle
+LOCAL_MODULE := OPIconpackCircle1
 LOCAL_MODULE_STEM := OPIconpackCircle.apk
 LOCAL_SRC_FILES := OPIconpackCircle.apk
 LOCAL_MODULE_TAGS := optional

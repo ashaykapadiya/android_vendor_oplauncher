@@ -1,7 +1,7 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := OPWeather
+LOCAL_MODULE := OPWeather1
 LOCAL_MODULE_STEM := OPWeather.apk
 LOCAL_SRC_FILES := OPWeather.apk
 LOCAL_MODULE_TAGS := optional
